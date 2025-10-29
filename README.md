@@ -69,3 +69,16 @@ pip install requests
 
 # 4. Run the bot manually
 python3 bot.py
+
+
+
+🔗 Live Updates
+
+📢 Follow live market updates here:
+👉 t.me/PolymarketWatcher
+
+💬 Credits
+
+Built with ❤️ by @timurg405
+
+Inspired by the amazing prediction market platform @Polymarket
